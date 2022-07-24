@@ -23,20 +23,32 @@ A Developer Business Wesbite Lnading Page template designed purely with `HTML` a
 - Learnt how to use `margins` and `paddings` in CSS to customise layout designs.
 - How to use `Netlify` to deploy and host websites through `Github`.
 
+***
+
 # Screenshots
 
+***
 ![1](./screen-shots/1.png)
+***
 ![2](./screen-shots/2.png)
+***
 ![3](./screen-shots/3.png)
+***
 ![4](./screen-shots/4.png)
+***
 ![5](./screen-shots/5.png)
+***
 
 # Landing Page
 
 ![](./screen-shots/9.png)
+
+***
 
 # Time to finish up the Project 
   `5 hours`
 
 # Deployed Link
 [Developer Business Website Landing Page]()
+
+***
