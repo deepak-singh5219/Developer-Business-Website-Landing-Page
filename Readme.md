@@ -49,6 +49,6 @@ A Developer Business Wesbite Lnading Page template designed purely with `HTML` a
   `5 hours`
 
 # Deployed Link
-[Developer Business Website Landing Page]()
+[Developer Business Website Landing Page](developer-landing-page.netlify.app)
 
 ***
